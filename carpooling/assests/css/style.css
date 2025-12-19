@@ -1,0 +1,16 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.hero {
+  background: linear-gradient(to right, #0099cc, #33cc99);
+  color: white;
+}
+
+.card i {
+  font-size: 3rem;
+}
+
+footer {
+  background-color: #222;
+}
